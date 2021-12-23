@@ -17,3 +17,7 @@ Et dans Deployment ^^
 
 ### How To Contribute
 
+### Copyright
+
+2021 PiRi git.training
+
