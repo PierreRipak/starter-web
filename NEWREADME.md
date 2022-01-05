@@ -1,7 +1,8 @@
 # Started Web Project
 
 Coucou les gars
-J'ai rajouté un petit qcqchose, mais aussi depuis MyFeatur branch
+J'ai rajouté un petit qcqchose
+encore des modifs ^^
 
 ## Introduction
 
